@@ -9,7 +9,7 @@
 <img alt="PHP" width="26px" src=https://raw.githubusercontent.com/github/explore/ccc16358ac4530c6a69b1b80c7223cd2744dea83/topics/php/php.png />  
 
 Sci-fi and linux enthusiast, son of a Electrical and a IT engineer.  
-I'm the definition of "r/UNIXporn user":
+The definition of "r/UNIXporn user":
 >\> btw I use Arch linux  
 >\> a tiling window manager  
 >\> Weeb  
