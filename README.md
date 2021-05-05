@@ -8,23 +8,16 @@
 <img alt="Python" width="26px" src=https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png />
 <img alt="PHP" width="26px" src=https://raw.githubusercontent.com/github/explore/ccc16358ac4530c6a69b1b80c7223cd2744dea83/topics/php/php.png />  
 
-Sci-fi and linux enthusiast, son of a Electrical and a IT engineer.  
-The definition of "r/UNIXporn user":
->\> btw I use Arch linux  
->\> a tiling window manager  
->\> Weeb  
+Weeb, Sci-fi and linux enthusiast
 
 ### [💻 Setup][setup]
 <p align="left">
-    <img alt="Artix Linux" height="26px" src="https://artixlinux.org/img/artix-logo.png" /> 
+    <img alt="Arch Linux" height="26px" src="https://artixlinux.org/img/artix-logo.png" /> 
     <img alt="Terminal" height="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" /> 
     <img alt="Neovim" height="26px" src="https://raw.githubusercontent.com/neovim/neovim.github.io/master/logos/neovim-mark.svg" /> 
     <img alt="Visual Studio Code" height="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" /> 
     <img alt="Vivaldi" height="26px" src="https://vivaldi.com/wp-content/uploads/cropped-favicon-192x192.png" />
 </p>  
-
-### 🎧 Vibing to ...
-[![Spotify](https://novatorem.alepini.vercel.app/api/spotify)][spotify]  
 
 [![GitHub Stats](https://github-readme-stats.alepini.vercel.app/api?username=AlePini&show_icons=true&hide_border=true&theme=dracula)][github-follower]  
 
