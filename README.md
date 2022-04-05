@@ -1,6 +1,6 @@
 ## Hello there, I'm Alessandro - aka AlePini - a CS Student @UniBO
 [<img src="https://img.shields.io/github/followers/AlePini?label=Followers&logo=GitHub&color=grey&style=for-the-badge" alt="GitHub badge" />][github-follower]
-[<img src="https://img.shields.io/twitter/follow/pineoli?label=Twitter&logo=twitter&color=1DA1F2&style=for-the-badge" alt="Twitter badge" />][twitter]
+[<img src="https://img.shields.io/twitter/follow/alepini_sh?label=Twitter&logo=twitter&color=1DA1F2&style=for-the-badge" alt="Twitter badge" />][twitter]
 <img alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
 <img alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
@@ -24,4 +24,4 @@ Weeb, Sci-fi and linux enthusiast
 [github-follower]: https://github.com/AlePini?tab=followers
 [setup]: https://github.com/AlePini/risotto
 [spotify]: https://open.spotify.com/user/pinidecima
-[twitter]: https://twitter.com/pineoli
+[twitter]: https://twitter.com/alepini_sh
