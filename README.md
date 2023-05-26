@@ -1,10 +1,12 @@
 ## Hello there, I'm Alessandro - aka AlePini - a CS Student @UniBO
-[<img src="https://img.shields.io/github/followers/AlePini?label=Followers&logo=GitHub&color=grey&style=for-the-badge" alt="GitHub badge" />][github-follower]
-<img alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-<img alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
-<img alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
-<img alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
-<img alt="Ansible" width="26px" src="https://github.com/ansible/logos/raw/main/vscode-ansible-logo/vscode-ansible.png" />  
+<p align="left">
+    <img src="https://img.shields.io/github/followers/AlePini?label=Followers&logo=GitHub&color=grey&style=for-the-badge" alt="GitHub badge" />
+    <img alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
+    <img alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
+    <img alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
+    <img alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
+    <img alt="Ansible" width="26px" src="https://github.com/ansible/logos/raw/main/vscode-ansible-logo/vscode-ansible.png" />  
+</p>
 
 Weeb, Sci-fi and linux enthusiast
 
